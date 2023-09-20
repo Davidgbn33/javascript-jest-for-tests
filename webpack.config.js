@@ -9,7 +9,8 @@ module.exports = {
   entry: [
    './src/index.js',
    './src/exercises/ex1.js',
-   './src/exercises/ex2.js'
+   './src/exercises/ex2.js',
+   './src/exercises/ex3.js',
   ],
   output: {
     filename: 'main.js',
